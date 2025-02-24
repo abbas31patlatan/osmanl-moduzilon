@@ -1,0 +1,9 @@
+{
+  "name": "Ottoman Empire Mod",
+  "description": "Adds the Ottoman Empire civilization with unique units, buildings, and abilities.",
+  "version": "1.0",
+  "supportedSaveVersions": ["4.15.12"],
+  "modFiles": [
+    "civilizations/TheOttomanEmpire.json"
+  ]
+}

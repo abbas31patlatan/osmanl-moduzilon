@@ -1,0 +1,13 @@
+{
+  "name": "OttomanEmpireMod",
+  "title": "Ottoman Empire Mod",
+  "author": "abbas31patlatan",
+  "description": "Osmanlı İmparatorluğu'nu yeni bir medeniyet olarak ekler. Mod; benzersiz birimler, binalar ve yetenekler içerir.",
+  "version": "1.0",
+  "supportedSaveVersions": ["4.15.12"],
+  "modUrl": "https://github.com/abbas31patlatan/osmanl-modu",
+  "defaultBranch": "main",
+  "lastUpdated": "2025-02-21T20:18:56Z",
+  "modSize": 4405,
+  "isBaseRuleset": false
+}

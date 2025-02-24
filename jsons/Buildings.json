@@ -1,0 +1,10 @@
+{
+  "name": "Anadolu Fortress",
+  "uniqueTo": "The Ottoman Empire",
+  "cost": 0,
+  "uniques": [
+    "Capital starts with +[200] HP and +[5] Strength",
+    "Capital has -[2] Gold maintenance cost",
+    "Units in the capital heal +[15]% faster"
+  ]
+}
